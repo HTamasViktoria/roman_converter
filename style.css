@@ -1,0 +1,34 @@
+body{
+    background: url(roman_wallpaper.jpg);
+    background-size:cover;
+   color: rgb(128, 0, 0);
+}
+
+
+
+h1{
+
+    text-align:center;
+}
+
+div{
+    text-align:center;
+    margin: 4px;
+    
+}
+
+input, button{
+    background:transparent;
+}
+
+button{
+    margin-top:5px;
+}
+
+label{
+    font-size:1.3rem;
+}
+
+input{
+    font-size:1.3rem;
+}
